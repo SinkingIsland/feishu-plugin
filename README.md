@@ -1,1 +1,1 @@
-# feishu-plugin
+# feishu-oss-plugin
